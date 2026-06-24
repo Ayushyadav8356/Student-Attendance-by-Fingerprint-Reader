@@ -229,7 +229,6 @@ A5            →    SCL
 2. **RFID Connection**: Wire RC522 according to SPI protocol
 3. **Display Setup**: Connect I2C LCD with pullup resistors
 4. **WiFi Module**: Carefully connect ESP-01 (voltage sensitive!)
-5. **Testing**: Verify each component before integration
 
 ---
 
